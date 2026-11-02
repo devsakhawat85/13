@@ -86,7 +86,7 @@ Territory: Missouri, Illinois, Kansas, Iowa`;
           <div className="bg-white p-6 rounded-lg border border-slate-200 shadow-xs flex flex-col sm:flex-row sm:items-center justify-between gap-6">
             <div className="space-y-3">
               <img
-                src="/src/assets/images/wesco_logo.png"
+                src="/images/wesco_logo.png"
                 alt="Donahue-Wesco Group (WESCO STL)"
                 className="h-10 w-auto object-contain"
                 referrerPolicy="no-referrer"

@@ -65,7 +65,7 @@ export const AboutSection: React.FC = () => {
             <div className="p-6 rounded-xl bg-slate-900 text-white shadow-sm border border-slate-800">
               <div className="mb-5 pb-4 border-b border-slate-800">
                 <img
-                  src="/src/assets/images/wesco_logo.png"
+                  src="/images/wesco_logo.png"
                   alt="Donahue-Wesco Group"
                   className="h-7 sm:h-8 w-auto object-contain brightness-0 invert opacity-95"
                   referrerPolicy="no-referrer"

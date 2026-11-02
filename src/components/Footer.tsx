@@ -20,7 +20,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenLineCard, onSelectManufact
           <div className="lg:col-span-2 space-y-4">
             <div className="py-1">
               <img
-                src="/src/assets/images/wesco_logo.png"
+                src="/images/wesco_logo.png"
                 alt="Donahue-Wesco Group (WESCO STL)"
                 className="h-10 w-auto object-contain brightness-0 invert opacity-90 hover:opacity-100 transition-opacity"
                 referrerPolicy="no-referrer"

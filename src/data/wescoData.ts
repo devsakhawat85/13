@@ -74,7 +74,7 @@ export const MANUFACTURERS: Manufacturer[] = [
       'Pioneering water-efficiency technology with patented Stealth® vacuum-assist flushing (0.8 GPF), EPA WaterSense certified toilets, and low-flow systems that slash utility operating costs without compromising performance.',
     extendedDescription:
       'Niagara is the gold standard for high-performance, ultra-high-efficiency plumbing fixtures across commercial hospitality, municipal housing authorities, and luxury multi-family developments. Donahue-Wesco Group provides technical specification, sample mockups, and rebate coordination for developers and engineers throughout our territory.',
-    image: '/src/assets/images/wesco_niagara_conservation_1793630509658.jpg',
+    image: '/images/wesco_niagara_conservation.jpg',
     keyProducts: [
       'Stealth® 0.8 GPF Vacuum-Assist Commercial Toilets',
       'Nano Dual-Flush (0.5 / 0.8 GPF) Restroom Suites',
@@ -108,7 +108,7 @@ export const MANUFACTURERS: Manufacturer[] = [
       'Over 9,000 plumbing, commercial, industrial, and hydronic valves and fittings. Backed by the unmatched 24-hour guarantee and an industry-leading 5-year, $25,000 downstream warranty.',
     extendedDescription:
       'From forged brass commercial ball valves and PressConnect press systems to radiant hydronics and gas distribution, Legend Valve is trusted by mechanical contractors and master plumbers for flawless quality and immediate wholesale availability.',
-    image: '/src/assets/images/wesco_legend_valves_1793630509837.jpg',
+    image: '/images/wesco_legend_valves.jpg',
     keyProducts: [
       'T-1001 & T-885 Full Port Forged Brass Ball Valves',
       'Legend PressConnect Copper & Bronze Press Fittings',
@@ -142,7 +142,7 @@ export const MANUFACTURERS: Manufacturer[] = [
       'American heritage since 1869. Renowned Anystream® luxury showerheads for five-star hospitality, architectural sensor faucets, and OSHA-compliant emergency eyewashes and deluge showers.',
     extendedDescription:
       'Speakman bridges premium design aesthetics for hotels and commercial buildings with life-critical safety equipment for laboratories, manufacturing plants, and educational facilities. Donahue-Wesco assists engineers with ANSI Z358.1 emergency fixture layout and design schedules.',
-    image: '/src/assets/images/wesco_speakman_hospitality_1793630510727.jpg',
+    image: '/images/wesco_speakman_hospitality.jpg',
     keyProducts: [
       'Anystream® Iconic Plunge & Multi-Function Hotel Showers',
       'Commander® Heavy-Duty Commercial & Institutional Faucets',
@@ -176,7 +176,7 @@ export const MANUFACTURERS: Manufacturer[] = [
       'Premier Midwest manufacturer of high-gloss cast acrylic bathtubs, sectional multi-piece shower systems, ADA-compliant barrier-free roll-in showers, and custom multi-family surrounds.',
     extendedDescription:
       'Diamond Tub & Showers delivers structural integrity and pristine surface aesthetics engineered specifically for new residential construction, assisted living healthcare facilities, and multi-unit renovations throughout the Heartland.',
-    image: '/src/assets/images/wesco_diamond_tub_showers_1793630511050.jpg',
+    image: '/images/wesco_diamond_tub_showers.jpg',
     keyProducts: [
       'Freestanding & Drop-In Deep Soaking Acrylic Tubs',
       'Multi-Piece Remodel Showers with Pin-Lock Installation',

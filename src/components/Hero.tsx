@@ -85,7 +85,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenLineCard, onExploreLines }) =>
           <div className="lg:col-span-5 relative">
             <div className="relative rounded-xl overflow-hidden border border-slate-700/80 shadow-2xl bg-slate-900 group">
               <img
-                src="/src/assets/images/wesco_hero_commercial_mechanical_1793630509761.jpg"
+                src="/images/wesco_hero_commercial_mechanical.jpg"
                 alt="Commercial mechanical piping and valve installation engineered with Donahue-Wesco Group partner equipment"
                 className="w-full h-[380px] sm:h-[440px] object-cover group-hover:scale-102 transition-transform duration-500"
                 referrerPolicy="no-referrer"

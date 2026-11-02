@@ -69,7 +69,7 @@ export const Header: React.FC<HeaderProps> = ({ onOpenLineCard, onOpenContact })
           {/* Zone 1: Official Brand Logo */}
           <a href="#" className="flex items-center group focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-600 rounded py-1">
             <img
-              src="/src/assets/images/wesco_logo.png"
+              src="/images/wesco_logo.png"
               alt="Donahue-Wesco Group - WESCO STL"
               className="h-8 sm:h-9 md:h-10 w-auto object-contain"
               referrerPolicy="no-referrer"
