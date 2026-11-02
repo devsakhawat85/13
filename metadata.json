@@ -1,0 +1,6 @@
+{
+  "name": "WESCO STL | Donahue-Wesco Group - Manufacturer's Representative",
+  "description": "Donahue-Wesco Group (WESCO STL) is the premier manufacturers' representative agency for commercial plumbing, valves, water conservation, and architectural fixtures in Missouri, Illinois, Kansas, and Iowa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
